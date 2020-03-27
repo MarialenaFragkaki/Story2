@@ -1,0 +1,1 @@
+This is a story to navigate in github without the terminal.
